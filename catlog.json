@@ -1,0 +1,10 @@
+{
+    "catlogs":[
+        {"product_id":"Softdrinks",
+        "quantity":50}, 
+        {"product_id":"Alcohol",
+            "quantity":5000},
+            {"product_id":"Bescuits",
+                "quantity":500}
+    ]
+}
