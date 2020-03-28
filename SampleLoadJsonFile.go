@@ -18,7 +18,7 @@ type CatlogList struct {
 }
 
 func ReadJSonFile(data CatlogList) {
-	file, err := ioutil.ReadFile("catalog.json")
+	file, err := ioutil.ReadFile("catlog.json")
 
 	if err != nil {
 		fmt.Println(err)
